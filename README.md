@@ -15,10 +15,9 @@ Strawberry blend
 1-20 2-35 3-50       
 
 Maskking extre 100k     
-Alaska ice       
-Banana taffy freeze       
+alaska ice      
 1-20 2-35 3-50      
 
-Crystal 12k        
-Watermelon ice       
-1-10       
+supbar 8k       
+green apple ice       
+1-10      
