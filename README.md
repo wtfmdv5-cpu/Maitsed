@@ -9,8 +9,7 @@ Triple berry
 Strawberry raspberry frost     
 Sour apple ice      
 Grape twist       
-Strawberry kiwi      
-Pink lemonade       
+Strawberry kiwi            
 Strawberry blend      
 1-20 2-35 3-50       
  
