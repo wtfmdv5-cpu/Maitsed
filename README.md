@@ -4,7 +4,7 @@ Blackberry grape
 Aurora berries         
 Golden berry         
 Grape twist            
-1-20 2-35 3-50       
+       
  
 dojo sphere x 40k    
 strawberry slam dunk    
@@ -17,3 +17,5 @@ blue star
 grape mojo    
 white gummy    
 tropical bomb    
+
+1-20 2-35 3-50
