@@ -8,12 +8,10 @@ Grape twist
  
 dojo sphere x 40k    
 strawberry slam dunk    
-sour gush    
-raspberry peach lime    
+sour gush      
 mexico mango    
 sour apple b pop    
 hawaii dream    
-blue star    
 grape mojo    
 white gummy    
 tropical bomb    
