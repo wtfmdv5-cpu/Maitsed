@@ -2,8 +2,7 @@
 Elfbar ebc pro 40k     
 Blackberry grape       
 Aurora berries         
-Golden berry         
-Grape twist            
+Golden berry                   
        
  
 dojo sphere x 40k    
@@ -13,7 +12,6 @@ mexico mango
 sour apple b pop    
 hawaii dream    
 grape mojo    
-white gummy    
-tropical bomb    
+white gummy       
 
 1-20 2-35 3-50
